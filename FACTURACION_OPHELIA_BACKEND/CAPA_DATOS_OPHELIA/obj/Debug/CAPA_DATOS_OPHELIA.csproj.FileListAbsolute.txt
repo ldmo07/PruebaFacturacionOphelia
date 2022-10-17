@@ -1,0 +1,13 @@
+C:\Users\lmercado\Documents\OpheliaPrueba\FACTURACION_OPHELIA_BACKEND\CAPA_DATOS_OPHELIA\bin\Debug\CAPA_DATOS_OPHELIA.dll
+C:\Users\lmercado\Documents\OpheliaPrueba\FACTURACION_OPHELIA_BACKEND\CAPA_DATOS_OPHELIA\bin\Debug\CAPA_DATOS_OPHELIA.pdb
+C:\Users\lmercado\Documents\OpheliaPrueba\FACTURACION_OPHELIA_BACKEND\CAPA_DATOS_OPHELIA\bin\Debug\Dapper.dll
+C:\Users\lmercado\Documents\OpheliaPrueba\FACTURACION_OPHELIA_BACKEND\CAPA_DATOS_OPHELIA\bin\Debug\MODELOS_OPHELIA.dll
+C:\Users\lmercado\Documents\OpheliaPrueba\FACTURACION_OPHELIA_BACKEND\CAPA_DATOS_OPHELIA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lmercado\Documents\OpheliaPrueba\FACTURACION_OPHELIA_BACKEND\CAPA_DATOS_OPHELIA\bin\Debug\MODELOS_OPHELIA.pdb
+C:\Users\lmercado\Documents\OpheliaPrueba\FACTURACION_OPHELIA_BACKEND\CAPA_DATOS_OPHELIA\bin\Debug\Dapper.xml
+C:\Users\lmercado\Documents\OpheliaPrueba\FACTURACION_OPHELIA_BACKEND\CAPA_DATOS_OPHELIA\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lmercado\Documents\OpheliaPrueba\FACTURACION_OPHELIA_BACKEND\CAPA_DATOS_OPHELIA\obj\Debug\CAPA_DATOS_OPHELIA.csprojAssemblyReference.cache
+C:\Users\lmercado\Documents\OpheliaPrueba\FACTURACION_OPHELIA_BACKEND\CAPA_DATOS_OPHELIA\obj\Debug\CAPA_DATOS_OPHELIA.csproj.CoreCompileInputs.cache
+C:\Users\lmercado\Documents\OpheliaPrueba\FACTURACION_OPHELIA_BACKEND\CAPA_DATOS_OPHELIA\obj\Debug\CAPA_DATOS_OPHELIA.csproj.CopyComplete
+C:\Users\lmercado\Documents\OpheliaPrueba\FACTURACION_OPHELIA_BACKEND\CAPA_DATOS_OPHELIA\obj\Debug\CAPA_DATOS_OPHELIA.dll
+C:\Users\lmercado\Documents\OpheliaPrueba\FACTURACION_OPHELIA_BACKEND\CAPA_DATOS_OPHELIA\obj\Debug\CAPA_DATOS_OPHELIA.pdb

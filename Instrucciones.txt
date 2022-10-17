@@ -1,0 +1,10 @@
+Paso #1 => Ejecutar el script CreacionBD.sql
+paso #2 => Ejecutar el script InsercionDatosBd.sql
+paso #3 => Ejecutar el Proyecto de nombre  FACTURACION_OPHELIA_BACKEND
+paso #4 => Ejecutar el Proyecto de nombre FacturacionOpheliaFrontend
+paso #5 => Revisar el archivo de nombre Guía de Vistas Aplicación de Facturación en Angular ING.docx
+paso #6 => Revisar el archivo de nombre Relaciones de Datos.xlsx
+paso #7 => Inicar pruebas de datos iniciales
+paso #8 => Incluir y hacer las pruebas con sus datos
+
+
