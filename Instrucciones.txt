@@ -6,16 +6,18 @@ Paso #3 => Ejecutar el script CreacionBD.sql que esta en el repositorio de backe
 
 paso #4 => Ejecutar el script InsercionDatosBd.sql que esta en el repositorio de backend
 
-paso #5 => Ejecutar el Proyecto de nombre  FACTURACION_OPHELIA_BACKEND que esta en el repositorio de backend
+paso #5 => Cambiar cadena de conexion de bd en el archivo webconfig del proyecto FACTURACION_OPHELIA_BACKEND que esta en el repositorio de backend
 
-paso #6 => Ejecutar el Proyecto de nombre FacturacionOpheliaFrontend que esta en el repositorio de front
+paso #6 => Ejecutar el Proyecto de nombre  FACTURACION_OPHELIA_BACKEND que esta en el repositorio de backend
 
-paso #7 => Revisar el archivo de nombre Guía de Vistas Aplicación de Facturación en Angular ING.docx que esta en el repositorio de backend
+paso #7 => Ejecutar el Proyecto de nombre FacturacionOpheliaFrontend que esta en el repositorio de front
 
-paso #8 => Revisar el archivo de nombre Relaciones de Datos.xlsx que esta en el repositorio de backend
+paso #8 => Revisar el archivo de nombre Guía de Vistas Aplicación de Facturación en Angular ING.docx que esta en el repositorio de backend
 
-paso #9 => Inicar pruebas de datos iniciales
+paso #9 => Revisar el archivo de nombre Relaciones de Datos.xlsx que esta en el repositorio de backend
 
-paso #10 => Incluir y hacer las pruebas con sus datos
+paso #10 => Inicar pruebas de datos iniciales
+
+paso #11 => Incluir y hacer las pruebas con sus datos
 
 
