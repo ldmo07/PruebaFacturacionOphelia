@@ -1,10 +1,21 @@
-Paso #1 => Ejecutar el script CreacionBD.sql
-paso #2 => Ejecutar el script InsercionDatosBd.sql
-paso #3 => Ejecutar el Proyecto de nombre  FACTURACION_OPHELIA_BACKEND
-paso #4 => Ejecutar el Proyecto de nombre FacturacionOpheliaFrontend
-paso #5 => Revisar el archivo de nombre Guía de Vistas Aplicación de Facturación en Angular ING.docx
-paso #6 => Revisar el archivo de nombre Relaciones de Datos.xlsx
-paso #7 => Inicar pruebas de datos iniciales
-paso #8 => Incluir y hacer las pruebas con sus datos
+paso #1 => Descargar el Backend del repositorio https://github.com/ldmo07/PruebaFacturacionOphelia.git
+
+paso #2 => Descargar el Front del repositorio https://github.com/ldmo07/FacturacionOpheliaFront.git
+
+Paso #3 => Ejecutar el script CreacionBD.sql que esta en el repositorio de backend
+
+paso #4 => Ejecutar el script InsercionDatosBd.sql que esta en el repositorio de backend
+
+paso #5 => Ejecutar el Proyecto de nombre  FACTURACION_OPHELIA_BACKEND que esta en el repositorio de backend
+
+paso #6 => Ejecutar el Proyecto de nombre FacturacionOpheliaFrontend que esta en el repositorio de front
+
+paso #7 => Revisar el archivo de nombre Guía de Vistas Aplicación de Facturación en Angular ING.docx que esta en el repositorio de backend
+
+paso #8 => Revisar el archivo de nombre Relaciones de Datos.xlsx que esta en el repositorio de backend
+
+paso #9 => Inicar pruebas de datos iniciales
+
+paso #10 => Incluir y hacer las pruebas con sus datos
 
 
